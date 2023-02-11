@@ -1,4 +1,5 @@
 # Tela da Matrix
 
-Exibe uma animação estilo tele da matrix em JavaScript
+Exibe uma animação estilo tela da matrix em JavaScript
 
+[Veja a demonstração](https://natanfiuza.github.io/tela_matrix/)
